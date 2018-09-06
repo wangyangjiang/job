@@ -20,6 +20,7 @@ Here is a good link with composer installation instructions for Ubuntu 18.04:
 
 Sample Apache2 virtual host conf:
 FusionInvoiceFOSS.conf
+
 `<VirtualHost *:80>`
 	`ServerAdmin webmaster@localhost`
 
