@@ -65,4 +65,4 @@ FusionInvoiceFOSS.conf
 	    </Directory>
 
 
-	</VirtualHost>all
+	</VirtualHost>
