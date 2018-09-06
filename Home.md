@@ -15,6 +15,7 @@ Installation Prerequisites:
 * A modern and updated web browser
 
 Composer installed
+
 Here is a good link with composer installation instructions for Ubuntu 18.04:
 [Composer Install instructions](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-18-04)
 
