@@ -1,6 +1,6 @@
 Welcome to the FusionInvoice-FOSS wiki!
 
-Installation Prerequisites:
+**Installation Prerequisites:**
 * A web server of some sort - Apache, nginx, etc.
 * PHP >= 7.0.0
 * OpenSSL PHP Extension
@@ -14,12 +14,12 @@ Installation Prerequisites:
 * MySQL or MariaDB
 * A modern and updated web browser
 
-Composer installed
+**Composer installed**
 
 Here is a good link with composer installation instructions for Ubuntu 18.04:
 [Composer Install instructions](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-18-04)
 
-Sample Apache2 virtual host conf:
+**Sample Apache2 virtual host conf:**
 
 FusionInvoiceFOSS.conf
 
