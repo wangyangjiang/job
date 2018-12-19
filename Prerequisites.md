@@ -1,5 +1,3 @@
-Welcome to the FusionInvoice-FOSS wiki!
-
 **Installation Prerequisites:**
 * A web server of some sort - Apache, nginx, etc.
 * PHP >= 7.1.3
