@@ -4,7 +4,7 @@
 
 2. Run "composer install" in web directory
 
-3. create a NEW FusionInvoiceFOSS database.
+3. create a NEW BillingTrack database.
 
     _You will be presented with an option to transfer an existing FusionInvoice 2018-8 database during setup._
 
@@ -40,7 +40,7 @@
 
 7. Set permissions for your site.
 
-8. Start FusionInvoiceFOSS/setup
+8. Start BillingTrack/setup
 
 9. after database configuration finishes, you will be presented with 2 choices:
 

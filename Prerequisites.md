@@ -21,19 +21,19 @@ Here is a good link with composer installation instructions for Ubuntu 18.04:
 
 **Sample Apache2 virtual host conf:**
 
-FusionInvoiceFOSS.conf
+BillingTrack.conf
 
 	<VirtualHost *:80>
 		ServerAdmin webmaster@localhost
 
-		DocumentRoot /var/www/FusionInvoiceFOSS/public
-		ServerName FusionInvoiceFOSS
-		ServerAlias FusionInvoiceFOSS
+		DocumentRoot /var/www/BillingTrack/public
+		ServerName BillingTrack
+		ServerAlias BillingTrack
 		<Directory />
 			Options FollowSymLinks
 			AllowOverride All
 		</Directory>
-		<Directory /var/www/FusionInvoiceFOSS/public/>
+		<Directory /var/www/BillingTrack/public/>
 			Options Indexes FollowSymLinks MultiViews
 			AllowOverride All
 			Order allow,deny
