@@ -40,7 +40,7 @@
 
 7. Set permissions for your site.
 
-8. Start BillingTrack/setup
+8. Start http://YOUR_BILLINGTRACK_WEBSITE/setup
 
 9. after database configuration finishes, you will be presented with 2 choices:
 
